@@ -39,6 +39,13 @@ export default function Page() {
             className="hidden md:block"
             alt="Screenshots of the dashboard project"
           />
+          <Image
+            src="/hero-desktop.png"
+            width={560}
+            height={620}
+            className="block md:hidden"
+            alt="Screenshots of the dashboard project"
+          />
         </div>
         <AcmeLogo />
       </div>
